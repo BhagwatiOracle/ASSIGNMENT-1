@@ -14,8 +14,13 @@ venv\Scripts\Activate
 ```
 pip install -r requirements.txt
 ```
+4. Add groq api key in .env file
 
-4. Run
+```
+GRQ_API_KEY = "your_api_key"
+```
+
+6. Run
    
 ```
 streamlit run app.py
