@@ -5,3 +5,4 @@ langchain-community
 streamlit
 sentence-transformers
 faiss-cpu
+torchvision
